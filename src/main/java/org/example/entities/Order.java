@@ -1,6 +1,5 @@
 package org.example.entities;
 
-import org.example.entities.Product;
 
 import java.util.Date;
 import java.util.List;
